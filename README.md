@@ -1,6 +1,6 @@
 # Portfolio
 
-Este é um projeto de cúrriculo online desenvolvido com HTML e CSS.
+Este é um projeto de currículo online desenvolvido com HTML e CSS.
 
 ## 📌 Tecnologias Utilizadas
 - HTML5
